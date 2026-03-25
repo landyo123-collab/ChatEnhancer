@@ -36,12 +36,6 @@ ChatEnhancer addresses all of these with a small, self-contained native app. No 
 
 ---
 
-## Screenshots
-
-*Coming soon. Add PNGs to a `screenshots/` folder and reference them here.*
-
----
-
 ## Requirements
 
 - macOS 13.0 or later
